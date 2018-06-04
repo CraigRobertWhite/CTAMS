@@ -1,3 +1,5 @@
+package ctamsbetav2;
+
 import org.netbeans.lib.awtextra.AbsoluteLayout;
 
 /**
