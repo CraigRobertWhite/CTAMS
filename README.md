@@ -1,7 +1,7 @@
 # Community Theatre Audition Management System (CTAMS)
 #### University of North Carolina at Charlotte - ITSC 1213 Spring 2018
 
-#### I do not condone any indivduals taking classes at UNCC to use my code to complete assignments.
+#### I do not condone any indivduals, taking classes at UNCC, to use my code to complete assignments.
 
 ### Background
 - This project was very important to me because it showed me that I could overcome any challenge if I persevered enough.
