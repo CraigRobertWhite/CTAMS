@@ -9,7 +9,7 @@
 - At the time of writing this README, I cannot find the actual instructions from the course. However, the basic goal was
   for students to outline classes and a console-menu system for users to interact with objects. I recall that the assignment
   just needed to be a simple console-menu and most of the code could have been written in pseudo code. I took it upon myself
-  to learn how to my GUIs with Java, make a login system, etc. all within two days. It was a bad decision at the time but
+  to learn how to make GUIs with Java, make a login system, etc. all within two days. It was a bad decision at the time but
   because of this decision I showed myself, and others, that I could do above the ordinary and persevere. This decision also
   resulted in people remembering me enough to invite me to take the steps that would lead to my first internship at MedShift,
   which has changed my life. This showed me that if you put 100% effort into everything you do, it doesn't go unnoticed and
